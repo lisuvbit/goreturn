@@ -1,0 +1,14 @@
+{
+  "responseData": {
+    "results": [
+      {
+        "GsumsClass": "webSearch",
+        "url": "http://test.test.com/instayrm"
+      },
+      {
+        "GsumsClass": "ytwsrom",
+        "url": "http://test.test.com/instayrm"
+      }
+    ]
+  }
+}
